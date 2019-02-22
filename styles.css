@@ -1,0 +1,8 @@
+h1{color:pink;font-size:35pt;}
+body{background:azure;color:lightslategrey;font-size:18pt;font-family:'Amatic SC';}
+a:hover{color:pink}
+nav {display: inline-block;
+        	border: 3px lightpink;
+        	padding: 8px;
+		margin: 1px;
+		background: hotpink;}
